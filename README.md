@@ -1,10 +1,9 @@
 
-### Hi there, I'm Ujjwal Vivek
+## Hi There, I'm Ujjwal Vivek
 
   
 
 [![Website](https://img.shields.io/website?label=viviDev.net&style=for-the-badge&up_color=%2360be86&down_color=%23e74c3c&url=https%3A%2F%2Fvividev.net)](https://vividev.net)
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/VicksTurtle?color=3498db&logo=twitter&style=for-the-badge)](https://twitter.com/VicksTurtle)
 
   
@@ -25,21 +24,19 @@
 
   
 
-### Connect with me:
+## Connect With Me:
 
-[![Website](https://img.shields.io/badge/website-16a085?style=for-the-badge&logoColor=white&url=https%3A%2F%2Fvividev.net)](https://vividev.net)
+[![Website](https://img.shields.io/badge/website-16a085?style=for-the-badge&logoColor=white&url=https%3A%2F%2Fvividev.net)][(https://vividev.net)]
 [![Website](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&url=mailto:ujjwalvivek21@gmail.com)](mailto:ujjwalvivek21@gmail.com)
 [![Website](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VicksTurtle)
 [![Website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-vivek-511696160/)
 [![Website](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vivigam.es/)
 
-  
+<br/>
+---
+<br/>
 
-<br  />
-
-  
-
-### Languages:
+## Programming Languages:
 
 ![Website](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Website](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -49,56 +46,71 @@
 ![Website](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![Website](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### Scripting Languages:
+## Scripting Languages:
 
 ![Website](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-### Database Management:
+
+## Database Management:
 
 ![Website](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-### Frameworks:
+
+## Frameworks:
 
 ![Website](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Website](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Website](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-
-### Game Engines:
+## Game Engines:
 
 ![Website](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Website](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
-### Project Management:
+
+## Project Management:
 
 ![Website](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-### Cloud Services:
+
+## Cloud Services:
 
 ![Website](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Website](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
 ![Website](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-### IDE:
+## IDE:
 
 ![Website](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-### Prototyping Platforms:
+
+## Prototyping Platforms:
 
 
 ![Website](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
-### System Specs:
+## System Specs:
 
 ![Website](https://img.shields.io/badge/NVIDIA-RTX_3070Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Website](https://img.shields.io/badge/AMD-Ryzen_9_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-### Visual Design:
+
+## Visual Design:
 
 ![Website](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Website](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Website](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 
-<br  />
+<br/>
+---
+<br/>
 
-<br  />
-
- 
+## GitHub Statistics
   
+![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwalvivek&count_private=true&show_icons=true&theme=dracula)
+
+## GitHub Streak Statistics
+
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ujjwalvivek&theme=dracula)
+
+## GitHub Top languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalvivek&langs_count=7&layout=compact&theme=dracula)
+
 
 <details>
 
@@ -112,23 +124,6 @@
 
 </details>
 
-  
-
-<details>
-
-### GitHub Statistics
-  
-![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwalvivek&count_private=true&show_icons=true&theme=dracula)
-### GitHub Streak Statistics
-
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ujjwalvivek&theme=dracula)
-
-### GitHub Top languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalvivek&langs_count=7&layout=compact&theme=dracula)
-</details>
-
-  
 
 [website]: https://vividev.net
 

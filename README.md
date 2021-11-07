@@ -28,13 +28,9 @@
 ### Connect with me:
 
 [![Website](https://img.shields.io/badge/website-16a085?style=for-the-badge&logoColor=white&url=https%3A%2F%2Fvividev.net)](https://vividev.net)
-
 [![Website](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&url=mailto:ujjwalvivek21@gmail.com)](mailto:ujjwalvivek21@gmail.com)
-
 [![Website](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VicksTurtle)
-
 [![Website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-vivek-511696160/)
-
 [![Website](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vivigam.es/)
 
   

@@ -155,32 +155,34 @@
 ![Website](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
 
 <br/>
-<hr>
+
 <br/>
 
-## GitHub Statistics
+### GitHub Statistics
+<hr>
   
 ![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwalvivek&count_private=true&show_icons=true&theme=dracula&border_color=ff79c6)
 
-## GitHub Streak Statistics
+### GitHub Streak Statistics
+<hr>
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ujjwalvivek&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&border=FF79C6)
 
-## GitHub Top languages
+### GitHub Top languages
+<hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalvivek&langs_count=7&layout=compact&theme=dracula&border_color=ff79c6&card_width=450)
 
 
-<details>
 
 ### Recent GitHub Activity
+<hr>
 
 <!--START_SECTION:activity-->
 
 
 ---
 
-</details>
 
 
 [website]: https://vividev.net

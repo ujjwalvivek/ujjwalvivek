@@ -1,6 +1,6 @@
 
-## Hi There, I'm Ujjwal Vivek
-
+### Hi There, I'm Ujjwal Vivek
+<hr>
   
 
 [![Website](https://img.shields.io/website?label=viviDev.net&style=for-the-badge&up_color=%2360be86&down_color=%23e74c3c&url=https%3A%2F%2Fvividev.net)](https://vividev.net)
@@ -8,8 +8,8 @@
 
 <br>
 
-## I'm a Game Developer and Visual Game Artist
-
+### I'm a Game Developer and Visual Artist
+<hr>
   
 
 - 🔭 I have a website now: [viviDev][website]!

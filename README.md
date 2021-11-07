@@ -101,7 +101,7 @@
 
 ## GitHub Statistics
   
-![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwalvivek&count_private=true&show_icons=true&theme=dracula&border_color=ff79c6)
+
 
 ## GitHub Streak Statistics
 

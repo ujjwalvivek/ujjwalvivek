@@ -6,7 +6,7 @@
 [![Website](https://img.shields.io/website?label=viviDev.net&style=for-the-badge&up_color=%2360be86&down_color=%23e74c3c&url=https%3A%2F%2Fvividev.net)](https://vividev.net)
 [![Twitter Follow](https://img.shields.io/twitter/follow/VicksTurtle?color=3498db&logo=twitter&style=for-the-badge)](https://twitter.com/VicksTurtle)
 
-  
+<br>
 
 ## I'm a Game Developer and Visual Game Artist
 
@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact: I love to make things look beautiful through my design ideas
 
-  
+<br>
 
 ## Connect With Me:
 
@@ -33,7 +33,7 @@
 [![Website](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vivigam.es/)
 
 <br/>
----
+<hr>
 <br/>
 
 ## Programming Languages:
@@ -96,20 +96,20 @@
 ![Website](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 
 <br/>
----
+<hr>
 <br/>
 
 ## GitHub Statistics
   
-![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwalvivek&count_private=true&show_icons=true&theme=dracula)
+![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwalvivek&count_private=true&show_icons=true&theme=dracula&border_color=ff79c6)
 
 ## GitHub Streak Statistics
 
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ujjwalvivek&theme=dracula)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ujjwalvivek&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&border=FF79C6)
 
 ## GitHub Top languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalvivek&langs_count=7&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalvivek&langs_count=7&layout=compact&theme=dracula&border_color=ff79c6&card_width=450)
 
 
 <details>

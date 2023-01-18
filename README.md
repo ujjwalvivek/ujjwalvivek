@@ -1,23 +1,21 @@
 
-### Hi There, I'm Ujjwal Vivek
+### Hi There, I'm Ujjwal Vivek. 
+![Website](https://img.shields.io/badge/Front%20End%20Developer-61dafb?style=flat-sqaure&logo=react&logoColor=white) ![Website](https://img.shields.io/badge/Game%20Developer-ff9900?style=flat-sqaure&logo=dev.to&logoColor=white) ![Website](https://img.shields.io/badge/UI/UX%20Artist-13aff0?style=flat-sqaure&logo=Artstation&logoColor=white)
 <hr>
   
 ![Website](https://img.shields.io/website?down_color=%23e74c3c&down_message=Offline&label=ujjwalvivek&logo=react&logoColor=white&style=for-the-badge&up_color=%2360be86&up_message=Online&url=https%3A%2F%2Fujjwalvivek.com)
 
-With a background in <b>Computer Science</b> and a passion for <b>Game Development and Design</b>, Ujjwal brings a unique skill set to their current role as a <b>Project Manager</b> and <b>Instructional Designer</b>. With expertise in <b>Unity, web development, programming, networking, and UI/UX design</b>, he brings a unique blend of technical expertise and creative problem-solving to drive successful project outcomes. 
-
+With a background in <b>Computer Science</b> and a passion for <b>Game Development and Design</b>, Ujjwal brings a unique skill set to their current role as a <b>Project Manager</b> and <b>Instructional Designer</b>. With expertise in <b>Unity, web development, programming, networking, and UI/UX design</b>, he brings a unique blend of technical expertise and creative problem-solving to drive successful project outcomes.
+<br>
+<br>
 > His passion for <b>PC and Console games</b> fuels his drive to create engaging and immersive experiences. In his personal time, he is currently working on a <b>multiplayer FPS game</b> using the <b>Unity Engine and Photon Networking</b>.
 <br>
 
-### I'm a Game Developer, Front-End Developer and Visual Artist
-<hr>
-  
+🌱 I’m currently learning <b>AWS Architecture</b> and <b>MERN Stack</b>.
 
-- 🌱 I’m currently learning <b>AWS Architecture</b> and <b>MEAN Stack</b>.
+👯 I’m looking to collaborate with other <b>Game Developers</b>, <b>Front-End Developers</b>, and <b>Visual Artists</b>.
 
-- 👯 I’m looking to collaborate with other <b>Game Developers</b>, <b>Front-End Developers</b>, and <b>Visual Artists</b>.
-
-- 🥅 2023 Goals: Contribute to <b>OpenAI</b>.
+🥅 2023 Goals: Contribute to <b>OpenAI</b>.
 
 <br>
 
@@ -26,7 +24,7 @@ With a background in <b>Computer Science</b> and a passion for <b>Game Developme
 
 [![Website](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&url=mailto:ujjwalvivek21@gmail.com)](mailto:ujjwalvivek21@gmail.com)
 [![Website](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VicksTurtle)
-[![Website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-vivek-511696160/)
+[![Website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwalvivek/)
 
 <br/>
 
@@ -39,7 +37,6 @@ With a background in <b>Computer Science</b> and a passion for <b>Game Developme
 ![Website](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Website](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![Website](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Website](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Website](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
@@ -121,25 +118,3 @@ With a background in <b>Computer Science</b> and a passion for <b>Game Developme
 <hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalvivek&langs_count=7&layout=compact&theme=dracula&border_color=ff79c6&card_width=450)
-
-
-
-### Recent GitHub Activity
-<hr>
-
-<!--START_SECTION:activity-->
-
-
----
-
-
-
-[website]: https://vividev.net
-
-[twitter]: https://twitter.com/VicksTurtle
-
-[instagram]: https://www.instagram.com/vivigam.es/
-
-[linkedin]: https://www.linkedin.com/in/ujjwal-vivek-511696160/
-
-[email]: mailto:ujjwalvivek21@gmail.com

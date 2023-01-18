@@ -3,7 +3,7 @@
 ![Website](https://img.shields.io/badge/Front%20End%20Developer-61dafb?style=flat-sqaure&logo=react&logoColor=white) ![Website](https://img.shields.io/badge/Game%20Developer-ff9900?style=flat-sqaure&logo=dev.to&logoColor=white) ![Website](https://img.shields.io/badge/UI/UX%20Artist-13aff0?style=flat-sqaure&logo=Artstation&logoColor=white)
 <hr>
   
-![Website](https://img.shields.io/website?down_color=%23e74c3c&down_message=Offline&label=ujjwalvivek&logo=react&logoColor=white&style=for-the-badge&up_color=%2360be86&up_message=Online&url=https%3A%2F%2Fujjwalvivek.com)
+[![Website](https://img.shields.io/website?down_color=%23e74c3c&down_message=Offline&label=ujjwalvivek&logo=react&logoColor=white&style=for-the-badge&up_color=%2360be86&up_message=Online&url=https%3A%2F%2Fujjwalvivek.com)](https://ujjwalvivek.com)
 
 With a background in <b>Computer Science</b> and a passion for <b>Game Development and Design</b>, Ujjwal brings a unique skill set to their current role as a <b>Project Manager</b> and <b>Instructional Designer</b>. With expertise in <b>Unity, web development, programming, networking, and UI/UX design</b>, he brings a unique blend of technical expertise and creative problem-solving to drive successful project outcomes.
 <br>

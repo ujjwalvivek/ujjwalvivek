@@ -1,32 +1,28 @@
 
 ### Hi There, I'm Ujjwal Vivek. 
-![Website](https://img.shields.io/badge/Front%20End%20Developer-61dafb?style=flat-sqaure&logo=react&logoColor=white) ![Website](https://img.shields.io/badge/Game%20Developer-ff9900?style=flat-sqaure&logo=dev.to&logoColor=white) ![Website](https://img.shields.io/badge/UI/UX%20Artist-13aff0?style=flat-sqaure&logo=Artstation&logoColor=white)
+![Website](https://img.shields.io/badge/Product%20Manager-B56576?style=flat-sqaure&logo=pnpm&logoColor=white) ![Website](https://img.shields.io/badge/Game%20Developer-355070?style=flat-sqaure&logo=dev.to&logoColor=white) ![Website](https://img.shields.io/badge/UI/UX%20Artist-EAAC8B?style=flat-sqaure&logo=Artstation&logoColor=white)
 <hr>
   
 [![Website](https://img.shields.io/website?down_color=%23e74c3c&down_message=Offline&label=ujjwalvivek&logo=react&logoColor=white&style=for-the-badge&up_color=%2360be86&up_message=Online&url=https%3A%2F%2Fujjwalvivek.com)](https://ujjwalvivek.com)
+[![Website](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&url=mailto:hello@ujjwalvivek.com)](mailto:hello@ujjwalvivek.com)
+[![Website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwalvivek/)
 
-With a background in <b>Computer Science</b> and a passion for <b>Game Development and Design</b>, Ujjwal brings a unique skill set to their current role as a <b>Project Manager</b> and <b>Instructional Designer</b>. With expertise in <b>Unity, web development, programming, networking, and UI/UX design</b>, he brings a unique blend of technical expertise and creative problem-solving to drive successful project outcomes.
+<p style="text-align: justify;">
+Product Manager focused on building scalable, structured solutions for growing companies. Skilled in optimizing workflow efficiency, refining pipelines, and leading cross-functional teams ensuring quality execution. Adaptable and results-oriented with extensive experience in quick commerce, software development life cycles, design principles, and operational management. Strong technical understanding of game Development (Unreal and Unity), Mobile App development (Kotlin, Swift) and Web Frameworks (Next.js, React.js, and Laravel PHP). Passionate about continuous learning.
+</p>
+
 <br>
+My passion for <b>PC and Console games</b> fuels my drive to create engaging and immersive experiences. In my personal time, I'm currently working on a <b>multiplayer FPS game</b> using the <b>Unity Engine and Photon Networking</b>.
 <br>
-> His passion for <b>PC and Console games</b> fuels his drive to create engaging and immersive experiences. In his personal time, he is currently working on a <b>multiplayer FPS game</b> using the <b>Unity Engine and Photon Networking</b>.
 <br>
 
 🌱 I’m currently learning <b>AWS Architecture</b> and <b>MERN Stack</b>.
 
 👯 I’m looking to collaborate with other <b>Game Developers</b>, <b>Front-End Developers</b>, and <b>Visual Artists</b>.
 
-🥅 2023 Goals: Contribute to <b>OpenAI</b>.
+🥅 2025 Goals: Get a new Car.
 
 <br>
-
-### Connect With Me 
-<hr>
-
-[![Website](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&url=mailto:ujjwalvivek21@gmail.com)](mailto:ujjwalvivek21@gmail.com)
-[![Website](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VicksTurtle)
-[![Website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwalvivek/)
-
-<br/>
 
 ### Programming Languages
 <hr>
@@ -35,8 +31,8 @@ With a background in <b>Computer Science</b> and a passion for <b>Game Developme
 ![Website](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Website](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Website](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Website](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![Website](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Website](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![Website](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
@@ -46,7 +42,7 @@ With a background in <b>Computer Science</b> and a passion for <b>Game Developme
 ![Website](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Website](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Frameworks
+### Frameworks & Libraries
 <hr>
 
 ![Website](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -72,7 +68,7 @@ With a background in <b>Computer Science</b> and a passion for <b>Game Developme
 ### Cloud Services
 <hr>
 
-![Website](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Website](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Website](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
 
 ### IDE
@@ -94,13 +90,6 @@ With a background in <b>Computer Science</b> and a passion for <b>Game Developme
 ![Website](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Website](https://img.shields.io/badge/Adobe-Creative%20Cloud-white?style=for-the-badge&logo=Adobe-Creative-Cloud&labelColor=a22846&logoWidth=15)
 ![Website](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
-### System Specs
-<hr>
-
-![Website](https://img.shields.io/badge/NVIDIA-RTX_3070Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Website](https://img.shields.io/badge/AMD-Ryzen_9_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-<br/>
 
 <br/>
 

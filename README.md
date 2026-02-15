@@ -49,4 +49,4 @@ I don't just manage roadmaps. I validate architecture. Currently obsessed with *
 
 
 ### `github-statistics`
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ujjwalvivek&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&border=FF79C6&card_width=1100)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ujjwalvivek&theme=javascript&card_width=1100&border_radius=3)](https://git.io/streak-stats)

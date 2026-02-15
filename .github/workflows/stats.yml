@@ -18,3 +18,7 @@ jobs:
           github_token: ${{ secrets.STATS_TOKEN }}
           visualization_types: "leaderboard"
           output_path: "stats"
+          include_forks: "true"
+          exclude_languages: "HTML,Markdown"
+          top_repos_count: "15"
+          dark_mode: "true"

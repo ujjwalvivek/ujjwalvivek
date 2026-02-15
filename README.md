@@ -9,8 +9,6 @@ I’ve built 0→1 products, scaled ops, designed systems, and made enough mista
 
 I don't just manage roadmaps. I validate architecture. Currently obsessed with **Local-First Software**, **Procedural Rendering**, and **Developer Experience (DX)**.
 
-![Language Stats](stats/leaderboard_by_lines.png)
-
 <hr>
 
 [![Website](https://img.shields.io/website?down_color=%23e74c3c&down_message=Offline&label=System%20Status&logo=react&logoColor=white&style=for-the-badge&up_color=%2360be86&up_message=Online&url=https%3A%2F%2Fujjwalvivek.com)](https://ujjwalvivek.com)

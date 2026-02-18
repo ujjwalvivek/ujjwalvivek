@@ -52,3 +52,5 @@ I don't just manage roadmaps. I validate architecture. Currently obsessed with *
 
 ### `github-statistics`
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ujjwalvivek&theme=javascript&card_width=1100&border_radius=3)](https://git.io/streak-stats)
+<img src="https://github-readme-stats-fast.vercel.app/api?username=ujjwalvivek&show_icons=true&theme=highcontrast&card_width=1100&border_radius=3" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ujjwalvivek&theme=highcontrast&card_width=1100" />

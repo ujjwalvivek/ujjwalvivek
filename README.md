@@ -1,4 +1,4 @@
-[![Yayy](https://github.com/ujjwalvivek/journey/blob/main/docs/media/latest.gif?raw=true)](htpps://journey.ujjwalvivek.com)
+[![Yayy](https://github.com/ujjwalvivek/journey/blob/main/docs/assets/latest.gif?raw=true)](htpps://journey.ujjwalvivek.com)
 
 ### `whoami`
 ![Website](https://img.shields.io/badge/Technical%20Product%20Manager-355070?style=flat-sqaure&logo=dev.to&logoColor=white) 

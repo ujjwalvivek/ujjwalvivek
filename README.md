@@ -1,7 +1,9 @@
-<p align="center">
-  <a href="https://journey.ujjwalvivek.com">
-    <img alt="Journey live build cover" src="https://github.com/ujjwalvivek/journey/blob/main/docs/assets/latest.gif?raw=true" width="100%" />
-  </a>
+<p align="left">
+  <a href="https://baremetal.ujjwalvivek.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/05a915ea-f934-421b-a707-9c60d18760c5" width="100%"></a>
+  <br>
+  <a href="https://journey.ujjwalvivek.com" target="_blank" rel="noreferrer"><img src="https://github.com/ujjwalvivek/journey/raw/main/docs/assets/latest.gif" width="49.5%"></a><img src="https://github.com/user-attachments/assets/7d738688-585f-47b5-a6af-0db30c4522d6" width="1%"><a href="https://journey.ujjwalvivek.com" target="_blank" rel="noreferrer"><img src="https://img.itch.zone/aW1nLzI3NDA4NjkxLmdpZg==/original/f4d7g%2F.gif" width="49.5%"></a>
+  <br>
+  <a href="https://ujjwalvivek.itch.io/requiem-the-game" target="_blank" rel="noreferrer"><img src="https://img.itch.zone/aW1nLzI3NDExNjY4LmdpZg==/original/paE%2B1%2F.gif" width="49.5%"></a><img src="https://github.com/user-attachments/assets/7d738688-585f-47b5-a6af-0db30c4522d6" width="1%"><a href="https://ujjwalvivek.itch.io/dino-blink" target="_blank" rel="noreferrer"><img src="https://img.itch.zone/aW1nLzI3NDExODUyLmdpZg==/original/Wx2zRl.gif" width="49.5%"></a>
 </p>
 
 <p align="left">
